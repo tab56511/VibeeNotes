@@ -1,0 +1,4 @@
+baseURL = 'https://vibeenotes.netlify.app/'
+languageCode = 'en-us'
+title = 'Vibee Notes'
+theme = 'PaperMod'
